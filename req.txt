@@ -1,0 +1,10 @@
+ have a small exercise which implements the following functions;
+Develop a scala program using spark
+
+1 read a csv file ( I will share the csv file at the time of implementing)
+Use stocator to read and write COS objects
+2 display first 15 rows
+3 setup a DB2 database in IBM cloud
+Create a simple data base
+Create a table and populate date read in step 1
+Read same data from database
